@@ -9,3 +9,9 @@ Este conjunto de dados contém informações sobre 17.562 animes e a preferênci
 
 
 Além disso, o código usado para coletar os dados está disponível [aqui](https://github.com/Hernan4444/MyAnimeList-Databa).
+
+
+Para mais detalhes sobre estes Dados, você pode ir ao site [Kaggle - Anime2020](https://www.kaggle.com/hernan4444/anime-recommendation-database-2020?select=anime.csv).
+
+
+Thanks God!
