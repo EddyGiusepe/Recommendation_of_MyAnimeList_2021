@@ -8,4 +8,4 @@ Este conjunto de dados contém informações sobre 17.562 animes e a preferênci
 * HTML com informações de anime para fazer a eliminação de dados. Esses arquivos contêm informações como avaliações, sinopse, informações sobre a equipe, estatísticas de anime, gênero, etc.
 
 
-Além disso, o código usado para coletar os dados está disponível (aqui)[https://github.com/Hernan4444/MyAnimeList-Databa].
+Além disso, o código usado para coletar os dados está disponível [aqui](https://github.com/Hernan4444/MyAnimeList-Databa).
